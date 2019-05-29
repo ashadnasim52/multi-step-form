@@ -4,7 +4,7 @@ This is a multi-step form created in reactjs without redux or context mangement 
 
 it also use material UI
 
-![images/image.png]
+![form image](/images/image.png
 
 ## Available Scripts
 
